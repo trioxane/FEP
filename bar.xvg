@@ -1,0 +1,33 @@
+# This file was created Wed Sep 21 12:07:26 2022
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.1 (-:
+# 
+# Executable:   /home/pzolotarev/anaconda3/envs/biobb_MDsetup_tutorial/bin/gmx
+# Data prefix:  /home/pzolotarev/anaconda3/envs/biobb_MDsetup_tutorial
+# Working dir:  /home/pzolotarev/biobb_wf_md_setup/biobb_wf_md_setup/notebooks/6X18_PR/P
+# Command line:
+#   gmx bar -f dhdl_0.xvg dhdl_10.xvg dhdl_11.xvg dhdl_12.xvg dhdl_13.xvg dhdl_14.xvg dhdl_15.xvg dhdl_16.xvg dhdl_1.xvg dhdl_2.xvg dhdl_3.xvg dhdl_4.xvg dhdl_5.xvg dhdl_6.xvg dhdl_7.xvg dhdl_8.xvg dhdl_9.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# GRowing Old MAkes el Chrono Sweat
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500 98.71  2.60
+ 1.500 78.32  0.49
+ 2.500 59.02  0.71
+ 3.500 124.75  2.54
+ 4.500 97.72  1.61
+ 5.500 59.92  3.51
+ 6.500 13.95  2.28
+ 7.500 -2.29  2.09
+ 8.500 23.13  0.07
+ 9.500 43.21  0.50
+10.500 39.78  1.05
+11.500 15.17  0.25
+12.500  8.67  0.25
+13.500 -1.16  0.48
+14.500 -74.18  2.75
+15.500 -27.95  0.15

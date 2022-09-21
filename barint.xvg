@@ -1,0 +1,34 @@
+# This file was created Wed Sep 21 12:07:26 2022
+# Created by:
+#                       :-) GROMACS - gmx bar, 2019.1 (-:
+# 
+# Executable:   /home/pzolotarev/anaconda3/envs/biobb_MDsetup_tutorial/bin/gmx
+# Data prefix:  /home/pzolotarev/anaconda3/envs/biobb_MDsetup_tutorial
+# Working dir:  /home/pzolotarev/biobb_wf_md_setup/biobb_wf_md_setup/notebooks/6X18_PR/P
+# Command line:
+#   gmx bar -f dhdl_0.xvg dhdl_10.xvg dhdl_11.xvg dhdl_12.xvg dhdl_13.xvg dhdl_14.xvg dhdl_15.xvg dhdl_16.xvg dhdl_1.xvg dhdl_2.xvg dhdl_3.xvg dhdl_4.xvg dhdl_5.xvg dhdl_6.xvg dhdl_7.xvg dhdl_8.xvg dhdl_9.xvg -o -oi -oh
+# gmx bar is part of G R O M A C S:
+#
+# Glycine aRginine prOline Methionine Alanine Cystine Serine
+#
+@    title "Free energy integral"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xy
+     0  0.00
+     1 98.71
+     2 177.02
+     3 236.04
+     4 360.80
+     5 458.52
+     6 518.44
+     7 532.40
+     8 530.11
+     9 553.25
+    10 596.46
+    11 636.24
+    12 651.40
+    13 660.07
+    14 658.91
+    15 584.73
+    16 556.77
